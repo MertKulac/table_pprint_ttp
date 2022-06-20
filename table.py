@@ -1,7 +1,3 @@
-from pprint import pprint
-from ttp import ttp
-import json
-import time
 
 data_to_parse="""
  +----+-------+-----+------+------+------+
